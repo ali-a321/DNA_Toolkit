@@ -1,0 +1,297 @@
+ROSALIND_1
+GC percentage: 49.95%
+
+ROSALIND_2
+GC percentage: 50.17%
+
+ROSALIND_3
+GC percentage: 49.96%
+
+ROSALIND_4
+GC percentage: 49.88%
+
+ROSALIND_5
+GC percentage: 49.96%
+
+ROSALIND_6
+GC percentage: 50.09%
+
+ROSALIND_7
+GC percentage: 50.14%
+
+ROSALIND_8
+GC percentage: 50.11%
+
+ROSALIND_9
+GC percentage: 50.29%
+
+ROSALIND_10
+GC percentage: 49.97%
+
+ROSALIND_11
+GC percentage: 50.17%
+
+ROSALIND_12
+GC percentage: 50.05%
+
+ROSALIND_13
+GC percentage: 50.15%
+
+ROSALIND_14
+GC percentage: 50.15%
+
+ROSALIND_15
+GC percentage: 50.1%
+
+ROSALIND_16
+GC percentage: 50.17%
+
+ROSALIND_17
+GC percentage: 49.9%
+
+ROSALIND_18
+GC percentage: 50.06%
+
+ROSALIND_19
+GC percentage: 50.08%
+
+ROSALIND_20
+GC percentage: 50.07%
+
+ROSALIND_21
+GC percentage: 49.94%
+
+ROSALIND_22
+GC percentage: 50.09%
+
+ROSALIND_23
+GC percentage: 50.16%
+
+ROSALIND_24
+GC percentage: 49.95%
+
+ROSALIND_25
+GC percentage: 49.99%
+
+ROSALIND_26
+GC percentage: 49.86%
+
+ROSALIND_27
+GC percentage: 50.06%
+
+ROSALIND_28
+GC percentage: 50.17%
+
+ROSALIND_29
+GC percentage: 50.03%
+
+ROSALIND_30
+GC percentage: 49.98%
+
+ROSALIND_31
+GC percentage: 49.89%
+
+ROSALIND_32
+GC percentage: 49.81%
+
+ROSALIND_33
+GC percentage: 50.09%
+
+ROSALIND_34
+GC percentage: 50.03%
+
+ROSALIND_35
+GC percentage: 50.21%
+
+ROSALIND_36
+GC percentage: 49.9%
+
+ROSALIND_37
+GC percentage: 50.07%
+
+ROSALIND_38
+GC percentage: 49.99%
+
+ROSALIND_39
+GC percentage: 50.07%
+
+ROSALIND_40
+GC percentage: 50.21%
+
+ROSALIND_41
+GC percentage: 50.13%
+
+ROSALIND_42
+GC percentage: 50.11%
+
+ROSALIND_43
+GC percentage: 50.29%
+
+ROSALIND_44
+GC percentage: 49.77%
+
+ROSALIND_45
+GC percentage: 50.06%
+
+ROSALIND_46
+GC percentage: 49.81%
+
+ROSALIND_47
+GC percentage: 49.71%
+
+ROSALIND_48
+GC percentage: 49.91%
+
+ROSALIND_49
+GC percentage: 50.17%
+
+ROSALIND_50
+GC percentage: 50.14%
+
+ROSALIND_51
+GC percentage: 50.07%
+
+ROSALIND_52
+GC percentage: 50.13%
+
+ROSALIND_53
+GC percentage: 50.08%
+
+ROSALIND_54
+GC percentage: 49.66%
+
+ROSALIND_55
+GC percentage: 49.95%
+
+ROSALIND_56
+GC percentage: 49.91%
+
+ROSALIND_57
+GC percentage: 50.29%
+
+ROSALIND_58
+GC percentage: 49.84%
+
+ROSALIND_59
+GC percentage: 49.65%
+
+ROSALIND_60
+GC percentage: 50.33%
+
+ROSALIND_61
+GC percentage: 50.14%
+
+ROSALIND_62
+GC percentage: 49.97%
+
+ROSALIND_63
+GC percentage: 50.05%
+
+ROSALIND_64
+GC percentage: 50.02%
+
+ROSALIND_65
+GC percentage: 50.05%
+
+ROSALIND_66
+GC percentage: 49.75%
+
+ROSALIND_67
+GC percentage: 49.77%
+
+ROSALIND_68
+GC percentage: 50.02%
+
+ROSALIND_69
+GC percentage: 49.84%
+
+ROSALIND_70
+GC percentage: 49.98%
+
+ROSALIND_71
+GC percentage: 49.91%
+
+ROSALIND_72
+GC percentage: 49.76%
+
+ROSALIND_73
+GC percentage: 50.01%
+
+ROSALIND_74
+GC percentage: 49.87%
+
+ROSALIND_75
+GC percentage: 50.15%
+
+ROSALIND_76
+GC percentage: 49.95%
+
+ROSALIND_77
+GC percentage: 49.8%
+
+ROSALIND_78
+GC percentage: 49.98%
+
+ROSALIND_79
+GC percentage: 50.19%
+
+ROSALIND_80
+GC percentage: 50.11%
+
+ROSALIND_81
+GC percentage: 50.09%
+
+ROSALIND_82
+GC percentage: 49.81%
+
+ROSALIND_83
+GC percentage: 49.94%
+
+ROSALIND_84
+GC percentage: 49.76%
+
+ROSALIND_85
+GC percentage: 49.92%
+
+ROSALIND_86
+GC percentage: 50.19%
+
+ROSALIND_87
+GC percentage: 49.66%
+
+ROSALIND_88
+GC percentage: 49.64%
+
+ROSALIND_89
+GC percentage: 50.15%
+
+ROSALIND_90
+GC percentage: 50.28%
+
+ROSALIND_91
+GC percentage: 49.84%
+
+ROSALIND_92
+GC percentage: 49.85%
+
+ROSALIND_93
+GC percentage: 50.07%
+
+ROSALIND_94
+GC percentage: 50.0%
+
+ROSALIND_95
+GC percentage: 50.14%
+
+ROSALIND_96
+GC percentage: 49.93%
+
+ROSALIND_97
+GC percentage: 50.15%
+
+ROSALIND_98
+GC percentage: 50.07%
+
+ROSALIND_99
+GC percentage: 50.07%
+
